@@ -6,7 +6,7 @@ This project serves as an example of a calendar with just the basics.
 You can use it as a reference to create your own calendar and style it according to your preferences.
 
 
-<img alt="demo" src="./images/calendar.png" width="253"/>
+<img alt="demo" src="./images/calendar.PNG" width="506"/>
 
 -----
 ### `npm start`
